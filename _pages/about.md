@@ -194,14 +194,16 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 </div>
 
-<div style="display:none">
-LaTeX ⭐️⭐️⭐️⭐️⭐️ | Markdown ⭐️⭐️⭐️⭐️⭐️ | Git ⭐️⭐️⭐️⭐️ | Docker ⭐️⭐️⭐️
-</div>
 
 ## 🌍 Language Skills
 
-
+- **Chinese**: Native
+- **German**: C1
+- **English**: B2
+- **Japanese**: A1
+- **Spanish**: A1
 
 ## 🚀 Projects
+
 
 
