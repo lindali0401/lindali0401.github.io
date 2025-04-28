@@ -197,11 +197,14 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 ## 🌍 Language Skills
 
-- **Chinese**: Native
-- **German**: C1
-- **English**: B2
-- **Japanese**: A1
-- **Spanish**: A1
+## 🌍 Language Skills
+
+| Language | Level | Language | Level |
+|:---|:---|:---|:---|
+| Chinese | Native | Japanese | A1 |
+| German | C1 | Spanish | A1 |
+| English | B2 | |
+
 
 ## 🚀 Projects
 
