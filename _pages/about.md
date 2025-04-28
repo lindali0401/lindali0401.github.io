@@ -55,7 +55,13 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px;">
 
-  <table style="width:45%; border-top: 1px solid #ccc;">
+  <table style="width:45%;">
+    <thead>
+    <tr>
+      <th style="visibility: hidden;">Skill</th>
+      <th style="visibility: hidden;">Level</th>
+    </tr>
+    </thead>
     <tr>
       <td><strong>Python</strong></td>
       <td>
@@ -91,6 +97,12 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   </table>
 
   <table style="width:45%;">
+    <thead>
+    <tr>
+      <th style="visibility: hidden;">Skill</th>
+      <th style="visibility: hidden;">Level</th>
+    </tr>
+    </thead>
     <tr>
       <td><strong>Haskell</strong></td>
       <td>
