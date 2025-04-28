@@ -206,7 +206,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 ## 🚀 Projects
 
 - **3D Sphere Texture Projection and Image Processing Project**  
-  Developed Python modules and contributed to image processing with Julia, focusing on projecting PNG textures onto 3D spheres.
+  Developed Python modules and contributed to image processing with Julia and Python, focusing on projecting PNG textures onto 3D spheres.
 
 - **Virtual File System Project**  
   Independently developed a virtual file system in C with directory management, file read/write access, and data import/export functionalities.
@@ -214,7 +214,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 - **"Death Stacks" Bot Development**  
   Built an intelligent game bot in Haskell, emphasizing functional programming and software quality assurance.
 
-> 📍 *Details of the university projects available on GitLab.*
+> 📍 *Details of the university projects available on [GitLab](https://git.tu-berlin.de/lgreen0401).*
 
 - **ReDaQ – Intelligent Data Quality Management Platform**  
   Independently developed a full-stack web application for the ReDaQ project using **Flask (Python)**, integrating **Rasa** and **LLaMA3** models.  
@@ -222,5 +222,4 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 - **Public Transport Delay Analysis (FZI Internship Project)**  
   Conducted a data analysis project at FZI Berlin, analyzing the impact of factors such as passenger volume, route length, time periods, and weather conditions on bus delays in Hamburg.  
-  > Detailed coming soon.
-
+  > Further details coming soon.
