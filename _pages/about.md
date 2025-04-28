@@ -11,10 +11,10 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 ## 🎓 Ecducation
 
-- **M.Sc. Computer Science** - Technische Universität Berlin
+- **M.Sc. Computer Science** - Technische Universität Berlin <br>
   *Apr 2025 - Present*
 
-- **B.Sc. Naturwissenschaften in der Informationsgesellschaft (Natural Sciences in the Information Society)** - Technische Universität Berlin
+- **B.Sc. Naturwissenschaften in der Informationsgesellschaft (Natural Sciences in the Information Society)** - Technische Universität Berlin <br>
   *Oct 2020 - Aug 2025*
 
   - 8 semesters, 240 ECTS
@@ -29,7 +29,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 - **Student Research Assistant (HiWi)** – Technische Universität Berlin  
   *Jun 2024 – Apr 2025*  
-  - Independently taught content for the course *Introduction to Engineering Data Analytics with R*, including conducting weekly office hours and preparing exercise materials.
+  - Independently taught tutorial sessions (*Übung*) for the course *Introduction to Engineering Data Analytics with R*, including conducting weekly office hours and preparing exercise materials.
   - Set up and managed the course website and student learning platform.
   - Independently developed a full-stack web application for the ReDaQ project, an intelligent data quality management platform, using **Flask (Python)** and integrating **Rasa** and **LLaMA3** models for chatbot functionality.
   - Contributed to the preparation of the first two chapters of the book *"Datenbasiertes Qualitätsmanagement: Mit Datenanalyse und KI-Methoden zur Digital Quality"*, supporting introductory texts and illustrations.
