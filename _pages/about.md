@@ -52,10 +52,10 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 ## 🛠️ Technical Skills
 
 **Programming Languages:**  
-Python ![progress](https://progress-bar.dev/100/?title=Python) | C ⭐️⭐️⭐️ | Julia ⭐️⭐️⭐️ | SQL ⭐️⭐️⭐️ | Haskell ⭐️⭐️⭐️ | Java ⭐️⭐️⭐️ | Prolog ⭐️⭐️ | MIPS Assembly ⭐️⭐️
+Python ⭐️⭐️⭐️⭐️⭐️ | C ⭐️⭐️⭐️ | Julia ⭐️⭐️⭐️ | SQL ⭐️⭐️⭐️ | Haskell ⭐️⭐️⭐️ | Java ⭐️⭐️⭐️ | Prolog ⭐️⭐️ | MIPS Assembly ⭐️⭐️
 
 **Frameworks & Tools:**  
-LaTeX ⭐️⭐️⭐️⭐️⭐️ | Markdown ⭐️⭐️⭐️⭐️⭐️ | Git ⭐️⭐️⭐️⭐️ | Flask ⭐️⭐️⭐️⭐️ | Docker ⭐️⭐️⭐️ | Rasa ⭐️⭐️⭐️ |
+LaTeX ⭐️⭐️⭐️⭐️⭐️ | Markdown ⭐️⭐️⭐️⭐️⭐️ | Git ⭐️⭐️⭐️⭐️ | Flask ⭐️⭐️⭐️⭐️ | Docker ⭐️⭐️⭐️ | Rasa ⭐️⭐️⭐️
 
 ## 🌍 Language Skills
 
