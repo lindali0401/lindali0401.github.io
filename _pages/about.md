@@ -35,8 +35,8 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   - Contributed to the preparation of the first two chapters of the book *"Datenbasiertes Qualitätsmanagement: Mit Datenanalyse und KI-Methoden zur Digital Quality"*, supporting introductory texts and illustrations.
   - Supported the MIQFEM project by conducting Docker-based web application testing and documenting system logs and technical processes.<br>
 
-*Technologies & Tools:* Python (Flask, Rasa, Pandas, Numpy...), R, Docker, HTML/CSS, JavaScript, LLM Integration (LLaMA3), Markdown
-*Working Languages*: German, English
+  *Technologies & Tools:* Python (Flask, Rasa, Pandas, Numpy...), R, Docker, HTML/CSS, JavaScript, LLM Integration (LLaMA3), Markdown
+  *Working Languages*: German, English
   
 - **Intern – Data Analytics** – FZI Forschungszentrum Informatik, Berlin<br>
   *May 2024 - Sept 2024*
@@ -47,8 +47,8 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   - Utilized tools and libraries including Pandas, NumPy, Matplotlib, Scikit-learn, Prophet, and Geopy for data analysis and modeling.
   - Received highly positive feedback for technical expertise, problem-solving ability, reliability, and teamwork.<br>
 
-*Technologies & Tools:* Python (Pandas, NumPy, Matplotlib, Scikit-learn, Prophet, Geopy...), API integration, data preprocessing, statistical modeling, Latex
-*Working Languages:* German
+  *Technologies & Tools:* Python (Pandas, NumPy, Matplotlib, Scikit-learn, Prophet, Geopy...), API integration, data preprocessing, statistical modeling, Latex
+  *Working Languages:* German
 
 ## 🛠️ Technical Skills
 
