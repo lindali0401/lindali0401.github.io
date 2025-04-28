@@ -52,24 +52,11 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 ## 🛠️ Technical Skills
 
 **Programming Languages:**
-<!-- **Python**
-<div style="background-color: #eee; width: 100%; height: 10px; border-radius: 5px;">
-  <div style="background-color: #4CAF50; width: 95%; height: 10px; border-radius: 5px;"></div>
-</div>
-
-**Flask**
-<div style="background-color: #eee; width: 100%; height: 10px; border-radius: 5px;">
-  <div style="background-color: #4CAF50; width: 80%; height: 10px; border-radius: 5px;"></div>
-</div>
-
-**Docker**
-<div style="background-color: #eee; width: 100%; height: 10px; border-radius: 5px;">
-  <div style="background-color: #4CAF50; width: 65%; height: 10px; border-radius: 5px;"></div>
-</div> -->
 
 Python ⭐️⭐️⭐️⭐️⭐️ | C ⭐️⭐️⭐️ | Julia ⭐️⭐️⭐️ | SQL ⭐️⭐️⭐️ | Haskell ⭐️⭐️⭐️ | Java ⭐️⭐️⭐️ | Prolog ⭐️⭐️ | MIPS Assembly ⭐️⭐️
 
-**Frameworks & Tools:**  
+**Frameworks & Tools:**
+
 LaTeX ⭐️⭐️⭐️⭐️⭐️ | Markdown ⭐️⭐️⭐️⭐️⭐️ | Git ⭐️⭐️⭐️⭐️ | Flask ⭐️⭐️⭐️⭐️ | Docker ⭐️⭐️⭐️ | Rasa ⭐️⭐️⭐️
 
 ## 🌍 Language Skills
