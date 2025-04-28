@@ -34,10 +34,11 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   - Independently developed a full-stack web application for the ReDaQ project, an intelligent data quality management platform, using **Flask (Python)** and integrating **Rasa** and **LLaMA3** models for chatbot functionality.
   - Contributed to the preparation of the first two chapters of the book *"Datenbasiertes Qualitätsmanagement: Mit Datenanalyse und KI-Methoden zur Digital Quality"*, supporting introductory texts and illustrations.
   - Supported the MIQFEM project by conducting Docker-based web application testing and documenting system logs and technical processes.<br>
-  *Technologies & Tools:* Python (Flask, Rasa, Pandas, Numpy...), R, Docker, HTML/CSS, JavaScript, LLM Integration (LLaMA3), Markdown
-  *Working Languages*: German, English
+
+*Technologies & Tools:* Python (Flask, Rasa, Pandas, Numpy...), R, Docker, HTML/CSS, JavaScript, LLM Integration (LLaMA3), Markdown
+*Working Languages*: German, English
   
-- **Intern – Data Analytics** – FZI Forschungszentrum Informatik, Berlin
+- **Intern – Data Analytics** – FZI Forschungszentrum Informatik, Berlin<br>
   *May 2024 - Sept 2024*
   - Conducted an independent project analyzing bus delays in Hamburg based on passenger volumes, route lengths, time periods, and weather conditions.
   - Collected, processed, and integrated transport and weather data from APIs and open sources.
@@ -45,8 +46,9 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   - Strengthened skills in Python programming, data engineering, and applied statistics.
   - Utilized tools and libraries including Pandas, NumPy, Matplotlib, Scikit-learn, Prophet, and Geopy for data analysis and modeling.
   - Received highly positive feedback for technical expertise, problem-solving ability, reliability, and teamwork.<br>
-  *Technologies & Tools:* Python (Pandas, NumPy, Matplotlib, Scikit-learn, Prophet, Geopy...), API integration, data preprocessing, statistical modeling, Latex
-  *Working Languages:* German
+
+*Technologies & Tools:* Python (Pandas, NumPy, Matplotlib, Scikit-learn, Prophet, Geopy...), API integration, data preprocessing, statistical modeling, Latex
+*Working Languages:* German
 
 ## 🛠️ Technical Skills
 
