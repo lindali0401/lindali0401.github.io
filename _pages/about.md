@@ -35,7 +35,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   - Contributed to the preparation of the first two chapters of the book *"Datenbasiertes Qualitätsmanagement: Mit Datenanalyse und KI-Methoden zur Digital Quality"*, supporting introductory texts and illustrations.
   - Supported the MIQFEM project by conducting Docker-based web application testing and documenting system logs and technical processes.<br>
 
-  *Technologies & Tools:* Python (Flask, Rasa, Pandas, Numpy...), R, Docker, HTML/CSS, JavaScript, LLM Integration (LLaMA3), Markdown, Typo3<br>
+  *Technologies & Tools:* Python (Flask, Pandas, Numpy...), R, Docker, HTML/CSS, JavaScript, LLM Integration (LLaMA3), Rasa, Markdown, Typo3<br>
   *Working Languages*: German, English
   
 - **Intern – Data Analytics** – FZI Forschungszentrum Informatik, Berlin<br>
@@ -55,13 +55,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px;">
 
-  <table style="width:45%; border-top: 1px solid #ccc; border-collapse: collapse;">
-    <thead>
-    <tr>
-      <th style="visibility: hidden;">Skill</th>
-      <th style="visibility: hidden;">Level</th>
-    </tr>
-    </thead>
+  <table style="width:45%;">
     <tr>
       <td><strong>Python</strong></td>
       <td>
@@ -96,47 +90,39 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
     </tr>
   </table>
 
-  <table style="width:45%; border-top: 1px solid #ccc; border-collapse: collapse;">
-    <thead>
-        <tr>
-        <th style="visibility: hidden;">Skill</th>
-        <th style="visibility: hidden;">Level</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-        <td><strong>Haskell</strong></td>
-        <td>
-            <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
-            <div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div>
-            </div>
-        </td>
-        </tr>
-        <tr>
-        <td><strong>Java</strong></td>
-        <td>
-            <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
-            <div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div>
-            </div>
-        </td>
-        </tr>
-        <tr>
-        <td><strong>Prolog</strong></td>
-        <td>
-            <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
-            <div style="background-color: #4CAF50; width: 40%; height: 8px; border-radius: 5px;"></div>
-            </div>
-        </td>
-        </tr>
-        <tr>
-        <td><strong>MIPS Assembly</strong></td>
-        <td>
-            <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
-            <div style="background-color: #4CAF50; width: 40%; height: 8px; border-radius: 5px;"></div>
-            </div>
-        </td>
-        </tr>
-    </tbody>
+  <table style="width:45%;">
+    <tr>
+    <td><strong>Haskell</strong></td>
+    <td>
+        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+        <div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div>
+        </div>
+    </td>
+    </tr>
+    <tr>
+    <td><strong>Java</strong></td>
+    <td>
+        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+        <div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div>
+        </div>
+    </td>
+    </tr>
+    <tr>
+    <td><strong>Prolog</strong></td>
+    <td>
+        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+        <div style="background-color: #4CAF50; width: 40%; height: 8px; border-radius: 5px;"></div>
+        </div>
+    </td>
+    </tr>
+    <tr>
+    <td><strong>MIPS Assembly</strong></td>
+    <td>
+        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+        <div style="background-color: #4CAF50; width: 40%; height: 8px; border-radius: 5px;"></div>
+        </div>
+    </td>
+    </tr>
   </table>
 </div>
 
