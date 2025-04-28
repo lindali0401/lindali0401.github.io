@@ -52,7 +52,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 ## 🛠️ Technical Skills
 
 **Programming Languages:**
-**Python**
+<!-- **Python**
 <div style="background-color: #eee; width: 100%; height: 10px; border-radius: 5px;">
   <div style="background-color: #4CAF50; width: 95%; height: 10px; border-radius: 5px;"></div>
 </div>
@@ -65,7 +65,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 **Docker**
 <div style="background-color: #eee; width: 100%; height: 10px; border-radius: 5px;">
   <div style="background-color: #4CAF50; width: 65%; height: 10px; border-radius: 5px;"></div>
-</div>
+</div> -->
 
 Python ⭐️⭐️⭐️⭐️⭐️ | C ⭐️⭐️⭐️ | Julia ⭐️⭐️⭐️ | SQL ⭐️⭐️⭐️ | Haskell ⭐️⭐️⭐️ | Java ⭐️⭐️⭐️ | Prolog ⭐️⭐️ | MIPS Assembly ⭐️⭐️
 
