@@ -55,7 +55,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px;">
 
-  <table style="width:45%;">
+  <table style="width:45%; border-top: 1px solid #ccc;">
     <tr>
       <td><strong>Python</strong></td>
       <td>
