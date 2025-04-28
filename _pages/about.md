@@ -41,7 +41,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 - **Intern – Data Analytics** – FZI Forschungszentrum Informatik, Berlin<br>
   *May 2024 - Sept 2024*
   - Conducted an independent project analyzing bus delays in Hamburg based on passenger volumes, route lengths, time periods, and weather conditions.
-  - Collected, processed, and integrated transport and weather data from APIs and open sources.
+  - Collected, processed, and integrated real-time data from APIs and open sources.
   - Applied statistical analysis (ANOVA, Lasso regression) and time series forecasting (Prophet model) to identify delay patterns and propose optimization strategies.
   - Strengthened skills in Python programming, data engineering, and applied statistics.
   - Received highly positive feedback for technical expertise, problem-solving ability, reliability, and teamwork.<br>
@@ -197,11 +197,30 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 ## 🌍 Language Skills
 
-| Chinese | Native | Japanese | A1 |
-| German  | C1     | Spanish  | A1 |
-| English | B2     |          |    |
+- **Chinese**: Native
+- **German**: C1
+- **English**: B2
+- **Japanese**: A1
+- **Spanish**: A1
 
 ## 🚀 Projects
 
+- **3D Sphere Texture Projection and Image Processing Project**  
+  Developed Python modules and contributed to image processing with Julia, focusing on projecting PNG textures onto 3D spheres.
 
+- **Virtual File System Project**  
+  Independently developed a virtual file system in C with directory management, file read/write access, and data import/export functionalities.
+
+- **"Death Stacks" Bot Development**  
+  Built an intelligent game bot in Haskell, emphasizing functional programming and software quality assurance.
+
+> 📍 *Details of the university projects available on GitLab.*
+
+- **ReDaQ – Intelligent Data Quality Management Platform**  
+  Independently developed a full-stack web application for the ReDaQ project using **Flask (Python)**, integrating **Rasa** and **LLaMA3** models.  
+  > Demo available on GitHub (coming soon).
+
+- **Public Transport Delay Analysis (FZI Internship Project)**  
+  Conducted a data analysis project at FZI Berlin, analyzing the impact of factors such as passenger volume, route length, time periods, and weather conditions on bus delays in Hamburg.  
+  > Detailed coming soon.
 
