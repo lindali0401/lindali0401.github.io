@@ -53,11 +53,19 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 **Programming Languages:**
 
+| Skill | Level |
+|:------|:------|
+| **Python** | <div style="background-color: #eee; width: 100px; height: 8px; border-radius: 5px;"><div style="background-color: #4CAF50; width: 95%; height: 8px; border-radius: 5px;"></div></div> |
+| **Java** | <div style="background-color: #eee; width: 100px; height: 8px; border-radius: 5px;"><div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div></div> |
+| **Flask** | <div style="background-color: #eee; width: 100px; height: 8px; border-radius: 5px;"><div style="background-color: #4CAF50; width: 80%; height: 8px; border-radius: 5px;"></div></div> |
+| **Docker** | <div style="background-color: #eee; width: 100px; height: 8px; border-radius: 5px;"><div style="background-color: #4CAF50; width: 65%; height: 8px; border-radius: 5px;"></div></div> |
+| **SQL** | <div style="background-color: #eee; width: 100px; height: 8px; border-radius: 5px;"><div style="background-color: #4CAF50; width: 70%; height: 8px; border-radius: 5px;"></div></div> |
+
 Python ⭐️⭐️⭐️⭐️⭐️ | C ⭐️⭐️⭐️ | Julia ⭐️⭐️⭐️ | SQL ⭐️⭐️⭐️ | Haskell ⭐️⭐️⭐️ | Java ⭐️⭐️⭐️ | Prolog ⭐️⭐️ | MIPS Assembly ⭐️⭐️
 
-**Frameworks & Tools:**
+**Tools:**
 
-LaTeX ⭐️⭐️⭐️⭐️⭐️ | Markdown ⭐️⭐️⭐️⭐️⭐️ | Git ⭐️⭐️⭐️⭐️ | Flask ⭐️⭐️⭐️⭐️ | Docker ⭐️⭐️⭐️ | Rasa ⭐️⭐️⭐️
+LaTeX ⭐️⭐️⭐️⭐️⭐️ | Markdown ⭐️⭐️⭐️⭐️⭐️ | Git ⭐️⭐️⭐️⭐️ | Docker ⭐️⭐️⭐️
 
 ## 🌍 Language Skills
 
