@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Linda Li"
   avatar : "/assets/images/bio-photo.jpg"
-  bio              : "I am an enthusiastic Computer Science student passionate about AI and Data Science."
+  bio              : "I am an enthusiastic Computer Science student passionate about AI, Data Science, and Software Engineering."
   location         : "Berlin, Germany"
   links:
     - label: "Personal Email"
