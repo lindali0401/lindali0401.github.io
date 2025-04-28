@@ -53,13 +53,36 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 **Programming Languages:**
 
-| Skill | Level |
-|:------|:------|
-| **Python** | <div style="background-color: #eee; width: 100px; height: 8px; border-radius: 5px;"><div style="background-color: #4CAF50; width: 95%; height: 8px; border-radius: 5px;"></div></div> |
-| **Java** | <div style="background-color: #eee; width: 100px; height: 8px; border-radius: 5px;"><div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div></div> |
-| **Flask** | <div style="background-color: #eee; width: 100px; height: 8px; border-radius: 5px;"><div style="background-color: #4CAF50; width: 80%; height: 8px; border-radius: 5px;"></div></div> |
-| **Docker** | <div style="background-color: #eee; width: 100px; height: 8px; border-radius: 5px;"><div style="background-color: #4CAF50; width: 65%; height: 8px; border-radius: 5px;"></div></div> |
-| **SQL** | <div style="background-color: #eee; width: 100px; height: 8px; border-radius: 5px;"><div style="background-color: #4CAF50; width: 70%; height: 8px; border-radius: 5px;"></div></div> |
+<table>
+  <tr>
+    <th style="text-align:left;">Skill</th>
+    <th style="text-align:left;">Level</th>
+  </tr>
+  <tr>
+    <td><strong>Python</strong></td>
+    <td>
+      <div style="background-color: #eee; width: 100px; height: 8px; border-radius: 5px;">
+        <div style="background-color: #4CAF50; width: 95%; height: 8px; border-radius: 5px;"></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Java</strong></td>
+    <td>
+      <div style="background-color: #eee; width: 100px; height: 8px; border-radius: 5px;">
+        <div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Flask</strong></td>
+    <td>
+      <div style="background-color: #eee; width: 100px; height: 8px; border-radius: 5px;">
+        <div style="background-color: #4CAF50; width: 80%; height: 8px; border-radius: 5px;"></div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 Python ⭐️⭐️⭐️⭐️⭐️ | C ⭐️⭐️⭐️ | Julia ⭐️⭐️⭐️ | SQL ⭐️⭐️⭐️ | Haskell ⭐️⭐️⭐️ | Java ⭐️⭐️⭐️ | Prolog ⭐️⭐️ | MIPS Assembly ⭐️⭐️
 
