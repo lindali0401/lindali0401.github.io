@@ -98,43 +98,45 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
   <table style="width:45%;">
     <thead>
-    <tr>
-      <th style="visibility: hidden;">Skill</th>
-      <th style="visibility: hidden;">Level</th>
-    </tr>
+        <tr>
+        <th style="visibility: hidden;">Skill</th>
+        <th style="visibility: hidden;">Level</th>
+        </tr>
     </thead>
-    <tr>
-      <td><strong>Haskell</strong></td>
-      <td>
-        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
-          <div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Java</strong></td>
-      <td>
-        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
-          <div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Prolog</strong></td>
-      <td>
-        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
-          <div style="background-color: #4CAF50; width: 40%; height: 8px; border-radius: 5px;"></div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>MIPS Assembly</strong></td>
-      <td>
-        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
-          <div style="background-color: #4CAF50; width: 40%; height: 8px; border-radius: 5px;"></div>
-        </div>
-      </td>
-    </tr>
+    <tbody>
+        <tr>
+        <td><strong>Haskell</strong></td>
+        <td>
+            <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+            <div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div>
+            </div>
+        </td>
+        </tr>
+        <tr>
+        <td><strong>Java</strong></td>
+        <td>
+            <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+            <div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div>
+            </div>
+        </td>
+        </tr>
+        <tr>
+        <td><strong>Prolog</strong></td>
+        <td>
+            <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+            <div style="background-color: #4CAF50; width: 40%; height: 8px; border-radius: 5px;"></div>
+            </div>
+        </td>
+        </tr>
+        <tr>
+        <td><strong>MIPS Assembly</strong></td>
+        <td>
+            <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+            <div style="background-color: #4CAF50; width: 40%; height: 8px; border-radius: 5px;"></div>
+            </div>
+        </td>
+        </tr>
+    </tbody>
   </table>
 </div>
 
