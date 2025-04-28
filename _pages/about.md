@@ -8,7 +8,7 @@ author_profile: true
 Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passionate about AI, Data Science, and Software Engineering.
 
 
-# 🎓 Ecducation
+## 🎓 Ecducation
 
 - **M.Sc. Computer Science**
     Technische Universität Berlin (2025.04 - Present)
@@ -16,16 +16,16 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 - **B.Sc. Naturwissenschaften in der Informationsgesellschaft (Natural Sciences in the Information Society)** 
     Technische Universität Berlin (2020.10 - 2025.04)
 
-# 💼 Work Experience
+## 💼 Work Experience
 
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 
 
-# 🌍 Language Skills
+## 🌍 Language Skills
 
 
-# 🚀 Projects
+## 🚀 Projects
 
 
