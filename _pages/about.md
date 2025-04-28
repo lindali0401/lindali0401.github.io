@@ -131,8 +131,59 @@ Python ⭐️⭐️⭐️⭐️⭐️ | C ⭐️⭐️⭐️ | Julia ⭐️⭐�
 </div>
 
 **Tools:**
+<div style="display: flex; flex-wrap: wrap; gap: 40px;">
 
+  <table style="width:45%;">
+    <tr>
+      <th style="text-align:left;">Tool</th>
+      <th style="text-align:left;">Level</th>
+    </tr>
+    <tr>
+      <td><strong>LaTeX</strong></td>
+      <td>
+        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+          <div style="background-color: #4CAF50; width: 100%; height: 8px; border-radius: 5px;"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Markdown</strong></td>
+      <td>
+        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+          <div style="background-color: #4CAF50; width: 100%; height: 8px; border-radius: 5px;"></div>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <table style="width:45%;">
+    <tr>
+      <th style="text-align:left;">Tool</th>
+      <th style="text-align:left;">Level</th>
+    </tr>
+    <tr>
+      <td><strong>Git</strong></td>
+      <td>
+        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+          <div style="background-color: #4CAF50; width: 80%; height: 8px; border-radius: 5px;"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Docker</strong></td>
+      <td>
+        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+          <div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<div style="display:none">
 LaTeX ⭐️⭐️⭐️⭐️⭐️ | Markdown ⭐️⭐️⭐️⭐️⭐️ | Git ⭐️⭐️⭐️⭐️ | Docker ⭐️⭐️⭐️
+</div>
 
 ## 🌍 Language Skills
 
