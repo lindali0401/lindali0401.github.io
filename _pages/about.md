@@ -135,10 +135,6 @@ Python ⭐️⭐️⭐️⭐️⭐️ | C ⭐️⭐️⭐️ | Julia ⭐️⭐�
 
   <table style="width:45%;">
     <tr>
-      <th style="text-align:left;">Tool</th>
-      <th style="text-align:left;">Level</th>
-    </tr>
-    <tr>
       <td><strong>LaTeX</strong></td>
       <td>
         <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
@@ -157,10 +153,6 @@ Python ⭐️⭐️⭐️⭐️⭐️ | C ⭐️⭐️⭐️ | Julia ⭐️⭐�
   </table>
 
   <table style="width:45%;">
-    <tr>
-      <th style="text-align:left;">Tool</th>
-      <th style="text-align:left;">Level</th>
-    </tr>
     <tr>
       <td><strong>Git</strong></td>
       <td>
