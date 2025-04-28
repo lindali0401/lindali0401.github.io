@@ -57,10 +57,6 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
   <table style="width:45%;">
     <tr>
-      <th style="text-align:left;">Skill</th>
-      <th style="text-align:left;">Level</th>
-    </tr>
-    <tr>
       <td><strong>Python</strong></td>
       <td>
         <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
@@ -96,10 +92,6 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
   <table style="width:45%;">
     <tr>
-      <th style="text-align:left;">Skill</th>
-      <th style="text-align:left;">Level</th>
-    </tr>
-    <tr>
       <td><strong>Haskell</strong></td>
       <td>
         <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
@@ -134,7 +126,9 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   </table>
 </div>
 
+<div style="display:none">
 Python ⭐️⭐️⭐️⭐️⭐️ | C ⭐️⭐️⭐️ | Julia ⭐️⭐️⭐️ | SQL ⭐️⭐️⭐️ | Haskell ⭐️⭐️⭐️ | Java ⭐️⭐️⭐️ | Prolog ⭐️⭐️ | MIPS Assembly ⭐️⭐️
+</div>
 
 **Tools:**
 
