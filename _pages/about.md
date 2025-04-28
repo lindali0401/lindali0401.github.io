@@ -35,7 +35,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   - Contributed to the preparation of the first two chapters of the book *"Datenbasiertes Qualitätsmanagement: Mit Datenanalyse und KI-Methoden zur Digital Quality"*, supporting introductory texts and illustrations.
   - Supported the MIQFEM project by conducting Docker-based web application testing and documenting system logs and technical processes.<br>
 
-  *Technologies & Tools:* Python (Flask, Rasa, Pandas, Numpy...), R, Docker, HTML/CSS, JavaScript, LLM Integration (LLaMA3), Markdown
+  *Technologies & Tools:* Python (Flask, Rasa, Pandas, Numpy...), R, Docker, HTML/CSS, JavaScript, LLM Integration (LLaMA3), Markdown<br>
   *Working Languages*: German, English
   
 - **Intern – Data Analytics** – FZI Forschungszentrum Informatik, Berlin<br>
@@ -46,14 +46,19 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   - Strengthened skills in Python programming, data engineering, and applied statistics.
   - Received highly positive feedback for technical expertise, problem-solving ability, reliability, and teamwork.<br>
 
-  *Technologies & Tools:* Python (Pandas, NumPy, Matplotlib, Scikit-learn, Prophet, Geopy...), API integration, data preprocessing, statistical modeling, Latex
+  *Technologies & Tools:* Python (Pandas, NumPy, Matplotlib, Scikit-learn, Prophet, Geopy...), API integration, data preprocessing, statistical modeling, Latex<br>
   *Working Languages:* German
 
 ## 🛠️ Technical Skills
 
+**Programming Languages:**  
+Python ![progress](https://progress-bar.dev/100/?title=Python) | C ⭐️⭐️⭐️ | Julia ⭐️⭐️⭐️ | SQL ⭐️⭐️⭐️ | Haskell ⭐️⭐️⭐️ | Java ⭐️⭐️⭐️ | Prolog ⭐️⭐️ | MIPS Assembly ⭐️⭐️
 
+**Frameworks & Tools:**  
+LaTeX ⭐️⭐️⭐️⭐️⭐️ | Markdown ⭐️⭐️⭐️⭐️⭐️ | Git ⭐️⭐️⭐️⭐️ | Flask ⭐️⭐️⭐️⭐️ | Docker ⭐️⭐️⭐️ | Rasa ⭐️⭐️⭐️ |
 
 ## 🌍 Language Skills
+
 
 
 ## 🚀 Projects
