@@ -44,7 +44,6 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   - Collected, processed, and integrated transport and weather data from APIs and open sources.
   - Applied statistical analysis (ANOVA, Lasso regression) and time series forecasting (Prophet model) to identify delay patterns and propose optimization strategies.
   - Strengthened skills in Python programming, data engineering, and applied statistics.
-  - Utilized tools and libraries including Pandas, NumPy, Matplotlib, Scikit-learn, Prophet, and Geopy for data analysis and modeling.
   - Received highly positive feedback for technical expertise, problem-solving ability, reliability, and teamwork.<br>
 
   *Technologies & Tools:* Python (Pandas, NumPy, Matplotlib, Scikit-learn, Prophet, Geopy...), API integration, data preprocessing, statistical modeling, Latex
