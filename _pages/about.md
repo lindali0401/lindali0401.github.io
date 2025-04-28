@@ -11,12 +11,12 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 ## 🎓 Ecducation
 
-- **M.Sc. Computer Science**<br>
-  Technische Universität Berlin | Apr 2025 - Present
+- **M.Sc. Computer Science** - Technische Universität Berlin
+  *Apr 2025 - Present*
 
-- **B.Sc. Naturwissenschaften in der Informationsgesellschaft**<br>
-  **(Natural Sciences in the Information Society)**<br>
-  Technische Universität Berlin | Oct 2020 - Aug 2025
+- **B.Sc. Naturwissenschaften in der Informationsgesellschaft (Natural Sciences in the Information Society)** - Technische Universität Berlin
+  *Oct 2020 - Aug 2025*
+
   - 8 semesters, 240 ECTS
   - Interdisciplinary program combining Mathematics, Physics, Computer Science, and Chemistry
   - Focus on Computer Science
