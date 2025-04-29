@@ -205,8 +205,16 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 ## 🚀 Projects
 
+- **ReDaQ – Intelligent Data Quality Management Platform**  
+  Independently developed a full-stack web application for the ReDaQ project using **Flask (Python)**, integrating **Rasa** and **LLaMA3** models.  
+  > Demo available on GitHub (coming soon).
+
+- **Public Transport Delay Analysis (FZI Internship Project)**  
+  Conducted a data analysis project at FZI Berlin, analyzing the impact of factors such as passenger volume, route length, time periods, and weather conditions on bus delays in Hamburg.  
+  > Further details coming soon.
+
 - **3D Sphere Texture Projection and Image Processing Project**  
-  Developed Python modules and contributed to image processing with Julia and Python, focusing on projecting PNG textures onto 3D spheres.
+  Developed Python modules and contributed to image processing with Julia, focusing on projecting PNG textures onto 3D spheres.
 
 - **Virtual File System Project**  
   Independently developed a virtual file system in C with directory management, file read/write access, and data import/export functionalities.
@@ -216,10 +224,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 > 📍 *Details of the university projects available on [GitLab](https://git.tu-berlin.de/lgreen0401).*
 
-- **ReDaQ – Intelligent Data Quality Management Platform**  
-  Independently developed a full-stack web application for the ReDaQ project using **Flask (Python)**, integrating **Rasa** and **LLaMA3** models.  
-  > Demo available on GitHub (coming soon).
+- **Academic Poster: Gekoppelte Schwingungen (Coupled Oscillations)**  
+  Created a scientific poster on coupled oscillations as part of the *Physikalisches Grundpraktikum* (Physics Laboratory Course) at TU Berlin.  
+  > 📍 [Poster and project details](https://www.tu.berlin/nlo/physikalische-grundpraktika/experimente-2/tk6)
 
-- **Public Transport Delay Analysis (FZI Internship Project)**  
-  Conducted a data analysis project at FZI Berlin, analyzing the impact of factors such as passenger volume, route length, time periods, and weather conditions on bus delays in Hamburg.  
-  > Further details coming soon.
