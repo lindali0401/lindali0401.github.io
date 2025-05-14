@@ -14,6 +14,11 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 - **M.Sc. Computer Science** - Technische Universität Berlin<br>
   *Apr 2025 - Present*
 
+- Currently in the first semester.
+- Coursework focuses on Machine Learning and Deep Learning
+- Actively participating in a project course involving full-stack development of an
+AI-powered application
+
 - **B.Sc. Naturwissenschaften in der Informationsgesellschaft (Natural Sciences in the Information Society)** - Technische Universität Berlin<br>
   *Oct 2020 - Aug 2025*
 
@@ -213,6 +218,10 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   Conducted a data analysis project at FZI Berlin, analyzing the impact of factors such as passenger volume, route length, time periods, and weather conditions on bus delays in Hamburg.  
   > Further details coming soon.
 
+---
+
+### University Projects
+
 - **3D Sphere Texture Projection and Image Processing Project**  
   Developed Python modules and contributed to image processing with Julia, focusing on projecting PNG textures onto 3D spheres.
 
@@ -226,5 +235,5 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 - **Academic Poster: Gekoppelte Schwingungen (Coupled Oscillations)**  
   Created a scientific poster on coupled oscillations as part of the *Physikalisches Grundpraktikum* (Physics Laboratory Course) at TU Berlin.  
-> 📍 [Poster and project details](https://www.tu.berlin/nlo/physikalische-grundpraktika/experimente-2/tk6)
+> 📍 [Poster details](https://www.tu.berlin/nlo/physikalische-grundpraktika/experimente-2/tk6)
 
