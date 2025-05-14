@@ -233,7 +233,7 @@ AI-powered application
 - **"Death Stacks" Bot Development**  
   Built an intelligent game bot in Haskell, emphasizing functional programming and software quality assurance.
 
-> 📍 *Details of the university projects available on [GitLab](https://git.tu-berlin.de/lgreen0401).*
+> 📍 *More university project details: [GitLab](https://git.tu-berlin.de/lgreen0401).*
 
 - **Academic Poster: Gekoppelte Schwingungen (Coupled Oscillations)**  
   Created a scientific poster on coupled oscillations as part of the *Physikalisches Grundpraktikum* (Physics Laboratory Course) at TU Berlin.  
