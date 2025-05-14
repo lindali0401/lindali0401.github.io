@@ -20,7 +20,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   AI-powered application
 <br><br>
 - **B.Sc. Naturwissenschaften in der Informationsgesellschaft (Natural Sciences in the Information Society)** - Technische Universität Berlin<br>
-  *Oct 2020 - Aug 2025*
+  *Oct 2020 - Oct 2025*
 
   - 8 semesters, 240 ECTS
   - Interdisciplinary program combining Mathematics, Physics, Computer Science, and Chemistry
