@@ -32,7 +32,7 @@ AI-powered application
 
 ## 💼 Work Experience
 
-- **Student Research Assistant (HiWi)** – Technische Universität Berlin  
+- **Student Research Assistant (HiWi) & Tutor** – Technische Universität Berlin  
   *Jun 2024 – Apr 2025*  
   - Independently taught tutorial sessions (*Übung*) for the course *Introduction to Engineering Data Analytics with R*, including conducting weekly office hours and preparing exercise materials.
   - Set up and managed the course website and student learning platform.
