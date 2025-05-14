@@ -18,8 +18,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   - Coursework focuses on Machine Learning and Deep Learning
   - Actively participating in a project course involving full-stack development of an
   AI-powered application
-
-
+<br><br>
 - **B.Sc. Naturwissenschaften in der Informationsgesellschaft (Natural Sciences in the Information Society)** - Technische Universität Berlin<br>
   *Oct 2020 - Aug 2025*
 
