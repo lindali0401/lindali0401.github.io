@@ -19,6 +19,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   - Actively participating in a project course involving full-stack development of an
   AI-powered application
 
+
 - **B.Sc. Naturwissenschaften in der Informationsgesellschaft (Natural Sciences in the Information Society)** - Technische Universität Berlin<br>
   *Oct 2020 - Aug 2025*
 
@@ -42,7 +43,8 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
   *Technologies & Tools:* Python (Flask, Pandas, Numpy...), R, Docker, HTML/CSS, JavaScript, LLM Integration (LLaMA3), NLU model integration (Rasa), Markdown, Typo3<br>
   *Working Languages*: German, English
-  
+
+
 - **Intern – Data Analytics** – FZI Forschungszentrum Informatik, Berlin<br>
   *May 2024 - Sept 2024*
   - Conducted an independent project analyzing bus delays in Hamburg based on passenger volumes, route lengths, time periods, and weather conditions.
