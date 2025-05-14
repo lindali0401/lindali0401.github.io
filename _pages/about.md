@@ -210,6 +210,8 @@ AI-powered application
 
 ## 🚀 Projects
 
+### Industry Projects
+
 - **ReDaQ – Intelligent Data Quality Management Platform**  
   Independently developed a full-stack web application for the ReDaQ project using **Flask (Python)**, integrating **Rasa** and **LLaMA3** models.  
   > Demo available on GitHub (coming soon).
