@@ -1,4 +1,4 @@
-# Linda Li – Personal Website
+# Personal Website
 
 This repository contains the source code of my personal academic and technical portfolio, built using [Jekyll](https://jekyllrb.com/) and the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme.
 
