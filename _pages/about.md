@@ -237,6 +237,6 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 > 📍 *More university project details: [GitLab](https://git.tu-berlin.de/lgreen0401).*
 
 - **Academic Poster: Gekoppelte Schwingungen (Coupled Oscillations)**  
-  Selected to create a scientific poster on coupled oscillations as an extension to the Physikalisches Grundpraktikum at TU Berlin.  
+  Selected to create a scientific poster on coupled oscillations as an extension to the Physikalisches Grundpraktikum (Physics Laboratory Course) at TU Berlin.  
 > 📍 [Poster details](https://www.tu.berlin/nlo/physikalische-grundpraktika/experimente-2/tk6)
 
