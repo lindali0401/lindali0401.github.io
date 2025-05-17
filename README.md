@@ -1,27 +1,34 @@
-# Minimal Mistakes remote theme starter
+# Linda Li – Personal Website
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This repository contains the source code of my personal academic and technical portfolio, built using [Jekyll](https://jekyllrb.com/) and the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme.
 
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+🔗 **Live Website**: [lindali.github.io](https://lindali0401.github.io/)
 
 ---
 
-## Troubleshooting
+## About This Site
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+This website serves as a digital portfolio to introduce my background, experience, skills, and selected projects.  
+It is built entirely using open-source tools and deployed via **GitHub Pages**.
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+### Included Content
+
+- A detailed [About Me](https://lindali.github.io/about/) page including:
+  - 🎓 Education history (TU Berlin B.Sc. + M.Sc.)
+  - 💼 Work experience (FZI Berlin, TU Berlin HiWi)
+  - 🛠️ Technical skill overview
+  - 🌍 Language skills
+  - 🚀 Project summaries (academic, personal, industry-based)
+
+---
+
+## Stack Used
+
+| Component    | Technology                          |
+|--------------|--------------------------------------|
+| Framework    | [Jekyll](https://jekyllrb.com/)      |
+| Theme        | [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) |
+| Deployment   | GitHub Pages                         |
+| Languages    | Markdown, HTML, YAML                 |
+
+---
