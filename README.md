@@ -13,7 +13,7 @@ It is built entirely using open-source tools and deployed via **GitHub Pages**.
 
 ### Included Content
 
-- A detailed [About Me](https://lindali.github.io/about/) page including:
+- A detailed [About Me](https://lindali0401.github.io/about/) page including:
   - 🎓 Education history (TU Berlin B.Sc. + M.Sc.)
   - 💼 Work experience (FZI Berlin, TU Berlin HiWi)
   - 🛠️ Technical skill overview
