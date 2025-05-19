@@ -3,6 +3,7 @@ layout: single
 title: "My Projects"
 permalink: /projects/
 classes: wide
+search: false
 ---
 
 ## Industry Projects
