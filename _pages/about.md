@@ -36,7 +36,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   *Jun 2024 – Apr 2025*  
   - Independently taught tutorial sessions (*Übung*) for the course *Introduction to Engineering Data Analytics with R*, including conducting weekly office hours and preparing exercise materials.
   - Set up and managed the course website and student learning platform.
-  - Independently developed a full-stack web application for the ReDaQ project, an intelligent data quality management platform, using **Flask (Python)** and integrating **Rasa** and **LLaMA3** models for chatbot functionality.
+  - Independently developed a full-stack web application for the ReDaQ project, an intelligent data quality management platform, using Flask (Python) and integrating Rasa and LLaMA3 models for chatbot functionality.
   - Contributed to the preparation of the first two chapters of the book *"Datenbasiertes Qualitätsmanagement: Mit Datenanalyse und KI-Methoden zur Digital Quality"*, supporting introductory texts and illustrations.
   - Supported the MIQFEM project by conducting Docker-based web application testing and documenting system logs and technical processes.
   - Received highly positive feedback for technical expertise, problem-solving ability, reliability, and teamwork.<br>
