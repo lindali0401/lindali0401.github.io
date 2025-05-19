@@ -11,7 +11,7 @@ classes: wide
 **Type:** Student Assistant Project at TU Berlin  
 **Tech stack:** Flask, Rasa Pro, LLaMA3 (together.ai API), Docker...
 
-### Demo: SmartDQ – AI Method Advisor for Industrial Data Quality
+### Demo: SmartDQ – AI-Powered Method Recommendation
 **Highlights:**
 - Built a full-stack web platform for recommending data analytics methods based on data quality.
 - Integrated Rasa chatbot with LLaMA3 via API, using Retrieval-Augmented Generation (RAG).
@@ -21,19 +21,19 @@ classes: wide
 
 #### Homepage Preview (EN / DE)
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="images/home_en.png" width="45%" alt="Homepage English">
-  <img src="images/home_de.png" width="45%" alt="Homepage German">
+  <img src="assets/home_en.png" width="45%" alt="Homepage English">
+  <img src="assets/home_de.png" width="45%" alt="Homepage German">
 </div>
 
 
 ##### Chatbot Interface
 <p align="center">
-  <img src="images/chatbot.png" width="600" alt="Chatbot Interface">
+  <img src="assets/chatbot.png" width="600" alt="Chatbot Interface">
 </p>
 
 #### Interaction Demo
 <p align="center">
-  <img src="images/demo.gif" width="600" alt="SmartDQ Chatbot Demo">
+  <img src="assets/demo.gif" width="600" alt="SmartDQ Chatbot Demo">
 </p>
 
 🔗 [GitHub Demo](https://github.com/lindali0401/smartdq-demo)
@@ -55,7 +55,7 @@ classes: wide
 
 ### 3D Sphere Texture Projection and Image Processing  
 **Course:** Computer-oriented Mathematics II (Computerorientierte Mathematik II), TU Berlin (SoSe 2021)  
-**Languages:** Python & Julia
+**Languages:** Python & Julia  
 **Highlights:**
 - Projected a 2D PNG texture onto a 3D sphere to introduce core concepts in computer graphics.
 - Used Python to load texture data and Julia for image transformation and rendering.
