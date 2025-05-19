@@ -12,7 +12,7 @@ search: false
 **Type:** Student Assistant Project at TU Berlin  
 **Tech stack:** Flask, Rasa Pro, LLaMA3 (together.ai API), Docker...
 
-### Demo: SmartDQ – AI-Powered Advisor for Industrial Data Quality
+### Demo: SmartDQ – AI-Powered Method Advisor for Industrial Data Quality
 **Highlights:**
 - Built a full-stack web platform for recommending data analytics methods based on data quality.
 - Integrated Rasa chatbot with LLaMA3 via API, using Retrieval-Augmented Generation (RAG).
