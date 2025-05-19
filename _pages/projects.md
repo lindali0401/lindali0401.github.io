@@ -42,7 +42,7 @@ classes: wide
 
 ### Public Transport Delay Analysis  
 **Type:** Internship Project at FZI Berlin  
-**Tech stack:** Python: pandas, numpy, matplotlib, scikit-learn, Prophet, Geopy…
+**Tech stack:** Python: pandas, numpy, matplotlib, scikit-learn, Prophet, Geopy…  
 **Highlights:**
 - Analyzed Hamburg’s bus delay patterns using real-time passenger data and route metadata.
 - Explored the impact of time, distance, weather, and ridership on delay frequency.
@@ -54,7 +54,7 @@ classes: wide
 ## University Projects
 
 ### 3D Sphere Texture Projection and Image Processing  
-**Course:** Computer-oriented Mathematics II (Computerorientierte Mathematik II), TU Berlin (SoSe 2021)  
+**Course:** Computerorientierte Mathematik II, TU Berlin (SoSe 2021)  
 **Languages:** Python & Julia  
 **Highlights:**
 - Projected a 2D PNG texture onto a 3D sphere to introduce core concepts in computer graphics.
