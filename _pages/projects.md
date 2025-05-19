@@ -26,13 +26,11 @@ search: false
   <img src="/assets/images/home_de.png" width="45%" alt="Homepage German">
 </div>
 <br>
-
 **Chatbot Interface**
 <p align="center">
   <img src="/assets/images/chatbot.png" width="600" alt="Chatbot Interface">
 </p>
 <br>
-
 **Interaction Demo**
 <p align="center">
   <img src="/assets/images/demo.gif" width="600" alt="SmartDQ Chatbot Demo">
