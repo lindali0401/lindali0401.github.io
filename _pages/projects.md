@@ -28,12 +28,12 @@ classes: wide
 
 ##### Chatbot Interface
 <p align="center">
-  <img src="assets/images/chatbot.png" width="600" alt="Chatbot Interface">
+  <img src="/assets/images/chatbot.png" width="600" alt="Chatbot Interface">
 </p>
 
 #### Interaction Demo
 <p align="center">
-  <img src="assets/images/demo.gif" width="600" alt="SmartDQ Chatbot Demo">
+  <img src="/assets/images/demo.gif" width="600" alt="SmartDQ Chatbot Demo">
 </p>
 
 🔗 [GitHub Demo](https://github.com/lindali0401/smartdq-demo)
