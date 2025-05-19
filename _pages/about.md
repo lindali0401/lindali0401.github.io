@@ -111,14 +111,6 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
         </div>
     </td>
     </tr>
-    <tr>
-      <td><strong>Flutter</strong></td>
-      <td>
-        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
-          <div style="background-color: #4CAF50; width: 30%; height: 8px; border-radius: 5px;"></div>
-        </div>
-      </td>
-    </tr>
   </table>
 
   <table style="width:45%;">
@@ -161,6 +153,14 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
         <div style="background-color: #4CAF50; width: 40%; height: 8px; border-radius: 5px;"></div>
         </div>
     </td>
+    </tr>
+    <tr>
+      <td><strong>Flutter</strong></td>
+      <td>
+        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+          <div style="background-color: #4CAF50; width: 30%; height: 8px; border-radius: 5px;"></div>
+        </div>
+      </td>
     </tr>
   </table>
 </div>
