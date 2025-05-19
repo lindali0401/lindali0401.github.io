@@ -5,11 +5,6 @@ permalink: /projects/
 classes: wide
 ---
 
-
-# 🚀 My Projects
-
----
-
 ## Industry Projects
 
 ### ReDaQ – Intelligent Data Quality Management Platform
@@ -26,19 +21,19 @@ classes: wide
 
 #### Homepage Preview (EN / DE)
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="assets/images/home_en.png" width="45%" alt="Homepage English">
-  <img src="assets/images/home_de.png" width="45%" alt="Homepage German">
+  <img src="images/home_en.png" width="45%" alt="Homepage English">
+  <img src="images/home_de.png" width="45%" alt="Homepage German">
 </div>
 
 
 ##### Chatbot Interface
 <p align="center">
-  <img src="assets/images/chatbot.png" width="600" alt="Chatbot Interface">
+  <img src="images/chatbot.png" width="600" alt="Chatbot Interface">
 </p>
 
 #### Interaction Demo
 <p align="center">
-  <img src="assets/images/demo.gif" width="700" alt="SmartDQ Chatbot Demo">
+  <img src="images/demo.gif" width="600" alt="SmartDQ Chatbot Demo">
 </p>
 
 🔗 [GitHub Demo](https://github.com/lindali0401/smartdq-demo)
@@ -57,11 +52,6 @@ classes: wide
 ---
 
 ## University Projects
-
-### 3D Sphere Texture Projection  
-**Languages:** Python & Julia  
-- Projected 2D textures onto 3D spheres.
-- Built custom image processing pipeline to convert and render images dynamically.
 
 ### 3D Sphere Texture Projection and Image Processing  
 **Course:** Computer-oriented Mathematics II (Computerorientierte Mathematik II), TU Berlin (SoSe 2021)  
@@ -102,7 +92,7 @@ classes: wide
 ---
 
 ### Academic Poster: Coupled Oscillations  
-**Course:** Physikalisches Grundpraktikum II, TU Berlin (SoSe 2023)
+**Course:** Physikalisches Grundpraktikum II, TU Berlin (SoSe 2023)<br>
 **Highlights:**
 - Selected by the teaching team to create a scientific poster on coupled oscillations as an advanced extension to the lab course.
 
