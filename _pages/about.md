@@ -226,11 +226,8 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 - **Japanese**: A1
 - **Spanish**: A1
 
-## 🚀 Projects
-
-<p align="center">
-  <a href="/projects/" style="font-size: 18px; font-weight: bold;">🔗 See full project portfolio →</a>
-</p>
+## 🚀 Projects 
+> [🔗 See full project portfolio](/projects/)
 
 ### Industry Projects
 

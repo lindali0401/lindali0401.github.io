@@ -1,8 +1,10 @@
 ---
-layout: page
-title: Projects
+layout: single
+title: "My Projects"
 permalink: /projects/
+classes: wide
 ---
+
 
 # 🚀 My Projects
 
@@ -73,7 +75,7 @@ permalink: /projects/
 
 ---
 
-### 🔸 Virtual File System  
+### Virtual File System  
 **Course:** Systemprogrammierung, TU Berlin (SoSe 2023)  
 **Language:** C  
 **Highlights:**
@@ -86,7 +88,7 @@ permalink: /projects/
 
 ---
 
-### 🔸 "Death Stacks" Bot Development  
+### "Death Stacks" Bot Development  
 **Course:** Softwaretechnik und Programmierparadigmen, TU Berlin (WiSe 2023/24)  
 **Language:** Haskell  
 **Highlights:**
