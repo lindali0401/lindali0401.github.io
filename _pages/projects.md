@@ -19,19 +19,21 @@ search: false
 - Designed multilingual UI, user authentication, and domain-specific prompt engineering.
 
 #### Preview
-
+<br>
+<br>
 **Homepage Preview (EN / DE)**
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="/assets/images/home_en.png" width="45%" alt="Homepage English">
   <img src="/assets/images/home_de.png" width="45%" alt="Homepage German">
 </div>
-
-
+<br>
+<br>
 **Chatbot Interface**
 <p align="center">
   <img src="/assets/images/chatbot.png" width="600" alt="Chatbot Interface">
 </p>
-
+<br>
+<br>
 **Interaction Demo**
 <p align="center">
   <img src="/assets/images/demo.gif" width="600" alt="SmartDQ Chatbot Demo">
