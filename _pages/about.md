@@ -111,6 +111,14 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
         </div>
     </td>
     </tr>
+    <tr>
+      <td><strong>Flutter</strong></td>
+      <td>
+        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+          <div style="background-color: #4CAF50; width: 30%; height: 8px; border-radius: 5px;"></div>
+        </div>
+      </td>
+    </tr>
   </table>
 
   <table style="width:45%;">
@@ -178,6 +186,14 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
         </div>
       </td>
     </tr>
+    <tr>
+      <td><strong>Figma</strong></td>
+      <td>
+        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+          <div style="background-color: #4CAF50; width: 70%; height: 8px; border-radius: 5px;"></div>
+        </div>
+      </td>
+    </tr>
   </table>
 
   <table style="width:45%;">
@@ -211,6 +227,10 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 - **Spanish**: A1
 
 ## 🚀 Projects
+
+<p align="center">
+  <a href="/projects/" style="font-size: 18px; font-weight: bold;">🔗 See full project portfolio →</a>
+</p>
 
 ### Industry Projects
 
