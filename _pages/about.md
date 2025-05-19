@@ -214,8 +214,11 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 ### Industry Projects
 
 - **ReDaQ – Intelligent Data Quality Management Platform**  
-  Independently developed a full-stack web application for the ReDaQ project using **Flask (Python)**, integrating **Rasa** and **LLaMA3** models.  
-  > Demo available on GitHub (coming soon).
+  Independently developed a full-stack web application for the ReDaQ project using Flask (Python), integrating Rasa for dialogue management and LLaMA3 via API.<br>
+  Designed custom dialogue flows, crafted prompts to align with user intents, and implemented a Retrieval-Augmented Generation (RAG) pipeline to support context-aware responses.
+
+  > Demo available on [GitHub](https://github.com/lindali0401/smartdq-demo).
+
 
 - **Public Transport Delay Analysis (FZI Internship Project)**  
   Conducted a data analysis project at FZI Berlin, analyzing the impact of factors such as passenger volume, route length, time periods, and weather conditions on bus delays in Hamburg.  
