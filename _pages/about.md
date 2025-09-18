@@ -259,6 +259,13 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 ### Industry Projects
 
+- **Rocket – AI-Powered Vocabulary Learning App**  
+  Co-founded an educational startup project with two teammates, originating from the TU Berlin course *Projektorientierte App- und Web-Entwicklung*.  
+  The app integrates AI-generated exercises with personalized review mechanisms to enhance language learning efficiency.
+  Currently in the process of seeking investment opportunities and applying for startup fellowships.
+
+  > Further details coming soon.  
+
 - **ReDaQ – Intelligent Data Quality Management Platform**  
   Independently developed a full-stack web application for the ReDaQ project using Flask (Python), integrating Rasa for dialogue management and LLaMA3 via API.<br>
   Designed custom dialogue flows, crafted prompts to align with user intents, and implemented a Retrieval-Augmented Generation (RAG) pipeline to support context-aware responses.
@@ -267,7 +274,8 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 
 - **Public Transport Delay Analysis (FZI Internship Project)**  
-  Conducted a data analysis project at FZI Berlin, analyzing the impact of factors such as passenger volume, route length, time periods, and weather conditions on bus delays in Hamburg.  
+  Conducted a data analysis project at FZI Berlin, analyzing the impact of factors such as passenger volume, route length, time periods, and weather conditions on bus delays in Hamburg.
+  
   > Further details coming soon.
 
 ---
