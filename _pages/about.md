@@ -27,9 +27,23 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   - Bachelor's Thesis: *"Development of a Methods Catalog for the Application of Data Analytics in Manufacturing"*
     - Supervisor: Lennart Frederik Müller-Stein, M.Sc.
     - 1st Reviewer: Prof. Dr. Roland Jochem
-    - Abstract accepted (2nd author) for publication at GQW-Tagung 2025
+    - Accepted (2nd author) for publication at GQW-Tagung 2025
 
 ## 💼 Work Experience
+
+- **Research Intern** – Max Planck Institute for Human Development (Center for Humans & Machines), Berlin  
+  *Jul 2025 – Sep 2025*  
+  - Independently developed a full-stack experimental platform (Learning to Teach project) to study AI-supported human reasoning, combining a React + MUI frontend with a FastAPI + PostgreSQL backend.  
+  - Designed and implemented data pipelines for capturing fine-grained user interaction logs (timestamps, AI feedback, socket-based data streaming), ensuring high data quality for behavioral experiments.  
+  - Built and deployed containerized services with Docker and GitLab CI/CD to Kubernetes clusters.  
+  - Integrated OpenAI LLMs and Raven-based fine-tuned models to provide different reasoning supports, including system prompt design and feedback optimization.  
+  - Developed embedding workflows for semantic analysis using Hugging Face models on Raven HPC, enabling large-scale retrieval, clustering, and evaluation of reasoning data, with GPU acceleration and Slurm job management.  
+  - Created a proof-of-concept chatbot (Collective Voices project) to compare fine-tuned models on Raven with OpenAI models, using Gradio for rapid prototyping and conversational evaluation.  
+  - Contributed to experiment design and evaluation, implementing admin dashboards and visualization tools for tracking participant progress, survey results, and system integrity checks.  
+  - Collaborated closely with supervisors and researchers in weekly check-ins, presenting technical progress and discussing experimental methodology.  
+
+  *Technologies & Tools:* React (MUI), FastAPI, PostgreSQL, Docker, Kubernetes, GitLab CI/CD, HPC (Raven, Slurm), Embeddings for Semantic Analysis (Hugging Face), Fine-tuned LLM Integration, Gradio, Socket.IO, Data Visualization 
+  *Working Languages*: English, German
 
 - **Student Research Assistant (HiWi) & Tutor** – Technische Universität Berlin  
   *Jun 2024 – Apr 2025*  
@@ -104,6 +118,14 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
     </tr>
     <tr>
     <td><strong>Haskell</strong></td>
+    <td>
+        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+        <div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div>
+        </div>
+    </td>
+    </tr>
+    <tr>
+    <td><strong>React</strong></td>
     <td>
         <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
         <div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div>
@@ -206,6 +228,14 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
     </tr>
     <tr>
       <td><strong>Docker</strong></td>
+      <td>
+        <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
+          <div style="background-color: #4CAF50; width: 80%; height: 8px; border-radius: 5px;"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Kubernetes</strong></td>
       <td>
         <div style="background-color: #eee; width: 120px; height: 8px; border-radius: 5px;">
           <div style="background-color: #4CAF50; width: 60%; height: 8px; border-radius: 5px;"></div>
