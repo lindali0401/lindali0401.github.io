@@ -25,7 +25,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   - Interdisciplinary program combining Mathematics, Physics, Computer Science, and Chemistry
   - Focus on Computer Science
   - Bachelor's Thesis: *"Development of a Methods Catalog for the Application of Data Analytics in Manufacturing"*
-    - Accepted for publication at GQW-Tagung 2025 (2nd author，**Best Paper Award**)
+    - Accepted for publication at GQW-Tagung 2025 (2nd author, **Best Paper Award**)
 
 ## 💼 Work Experience
 
