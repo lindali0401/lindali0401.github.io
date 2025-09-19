@@ -25,9 +25,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   - Interdisciplinary program combining Mathematics, Physics, Computer Science, and Chemistry
   - Focus on Computer Science
   - Bachelor's Thesis: *"Development of a Methods Catalog for the Application of Data Analytics in Manufacturing"*
-    - Supervisor: Lennart Frederik Müller-Stein, M.Sc.
-    - 1st Reviewer: Prof. Dr. Roland Jochem
-    - Accepted (2nd author) for publication at GQW-Tagung 2025
+    - Accepted (2nd author) for publication at GQW-Tagung 2025, **Best Paper Award**.
 
 ## 💼 Work Experience
 
