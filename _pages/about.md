@@ -257,7 +257,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 ### Industry Projects
 
-- **Agentic RAG – Intelligent Knowledge Retrieval and Reasoning System**
+- **Agentic RAG – Intelligent Knowledge Retrieval and Reasoning System**  
   Ongoing research project under Fraunhofer FOKUS and Technische Universität Berlin, focusing on agentic retrieval-augmented generation (RAG) for reasoning over mixed-type knowledge bases that combine structured and unstructured data.
   The project aims to develop autonomous LLM agents capable of query understanding, knowledge grounding, and SQL reasoning to enhance transparency and interpretability in scientific and biomedical question answering.
   
