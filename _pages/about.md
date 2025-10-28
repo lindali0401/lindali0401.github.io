@@ -257,7 +257,13 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 ### Industry Projects
 
-- **Rocket – AI-Powered Vocabulary Learning App**  
+- **Agentic RAG – Intelligent Knowledge Retrieval and Reasoning System**
+  Ongoing research project under Fraunhofer FOKUS and Technische Universität Berlin, focusing on agentic retrieval-augmented generation (RAG) for reasoning over mixed-type knowledge bases that combine structured and unstructured data.
+  The project aims to develop autonomous LLM agents capable of query understanding, knowledge grounding, and SQL reasoning to enhance transparency and interpretability in scientific and biomedical question answering.
+  
+  > Currently in active development.
+
+- **Lumin – AI-Powered Vocabulary Learning App**  
   Co-founded an educational startup project with two teammates, originating from the TU Berlin course *Projektorientierte App- und Web-Entwicklung*.  
   The app integrates AI-generated exercises with personalized review mechanisms to enhance language learning efficiency.
   Currently in the process of seeking investment opportunities and applying for startup fellowships.
@@ -269,7 +275,6 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   Designed custom dialogue flows, crafted prompts to align with user intents, and implemented a Retrieval-Augmented Generation (RAG) pipeline to support context-aware responses.
 
   > Demo available on [GitHub](https://github.com/lindali0401/smartdq-demo).
-
 
 - **Public Transport Delay Analysis (FZI Internship Project)**  
   Conducted a data analysis project at FZI Berlin, analyzing the impact of factors such as passenger volume, route length, time periods, and weather conditions on bus delays in Hamburg.
