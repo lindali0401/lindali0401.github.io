@@ -43,7 +43,7 @@ search: false
 
 ---
 
-### Agentic RAG – Intelligent Knowledge Retrieval and Reasoning System
+### Agentic RAG – Intelligent Knowledge Retrieval and Reasoning System  
 
 **Type:** Ongoing Research Project at Fraunhofer FOKUS & TU Berlin
 **Tech stack:** Python, SQL, LangChain, Hugging Face Transformers...
@@ -56,7 +56,7 @@ search: false
 
 ---
 
-### Lumin – AI-Powered Vocabulary Learning App
+### Lumin – AI-Powered Vocabulary Learning App  
 
 **Type:** Educational Startup Project
 **Tech stack:** Flutter, Python, OpenAI API, Supabase, Appwrite...
