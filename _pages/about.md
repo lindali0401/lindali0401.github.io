@@ -14,9 +14,9 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 - **M.Sc. Computer Science** - Technische Universität Berlin<br>
   *Apr 2025 - Present*
 
-  - Currently in the 2nd semester.
-  - Coursework focuses on Machine Learning and Deep Learning
-  - Actively participating in a project course involving full-stack development of AI-powered educational application supporting non-native German-speaking school students.
+  - Currently in the second semester, focusing on ML/DL, LLMs, and data infrastructure.  
+  - Developing an AI-powered language learning application.  
+  - Working on an Agentic RAG project to improve enterprise knowledge retrieval.
 <br><br>
 - **B.Sc. Naturwissenschaften in der Informationsgesellschaft (Natural Sciences in the Information Society)** - Technische Universität Berlin<br>
   *Oct 2020 - Oct 2025*
@@ -29,7 +29,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
 
 ## 💼 Work Experience
 
-- **Research Intern** – Max Planck Institute for Human Development (Center for Humans & Machines), Berlin  
+- **AI Research Engineering Intern** – Max Planck Institute for Human Development (Center for Humans & Machines), Berlin  
   *Jul 2025 – Sep 2025*  
   - Independently developed a full-stack experimental platform (Learning to Teach project) to study AI-supported human reasoning, combining a React + MUI frontend with a FastAPI + PostgreSQL backend.  
   - Designed and implemented data pipelines for capturing fine-grained user interaction logs (timestamps, AI feedback, socket-based data streaming), ensuring high data quality for behavioral experiments.  
@@ -43,7 +43,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   *Technologies & Tools:* React (MUI), FastAPI, PostgreSQL, Docker, Kubernetes, GitLab CI/CD, HPC (Raven, Slurm), Embeddings for Semantic Analysis (Hugging Face), Fine-tuned LLM Integration, Gradio, Socket.IO, Data Visualization 
   *Working Languages*: English, German
 
-- **Student Research Assistant (HiWi) & Tutor** – Technische Universität Berlin  
+- **Research Assistant & Tutor** – Technische Universität Berlin  
   *Jun 2024 – Apr 2025*  
   - Independently taught tutorial sessions (*Übung*) for the course *Introduction to Engineering Data Analytics with R*, including conducting weekly office hours and preparing exercise materials.
   - Set up and managed the course website and student learning platform.
@@ -56,7 +56,7 @@ Hello! I'm Linda Li, a master student in Computer Science at TU Berlin, passiona
   *Working Languages*: German, English
 
 
-- **Intern – Data Analytics** – FZI Forschungszentrum Informatik, Berlin<br>
+- **Data Analytics Intern** – FZI Forschungszentrum Informatik, Berlin<br>
   *May 2024 - Sept 2024*
   - Conducted an independent project analyzing bus delays in Hamburg based on passenger volumes, route lengths, time periods, and weather conditions.
   - Collected, processed, and integrated real-time data from APIs and open sources.
